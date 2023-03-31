@@ -1,0 +1,12 @@
+.navbar {
+    background-color: rgba(28, 166, 35, 0.386);
+    padding: 10px;
+  }
+  .item {
+    font-size: 24px;
+    margin: 4px 0px 4px 7px;
+  }
+  .item > a {
+    color:beige;
+    text-decoration: none;
+  }
